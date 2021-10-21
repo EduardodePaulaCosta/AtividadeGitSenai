@@ -1,4 +1,5 @@
 Atividade de versionamento
+
 Comandos usados para desenvolmento da atividade proposta.
 
 git init
